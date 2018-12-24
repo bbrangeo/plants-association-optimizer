@@ -5,7 +5,7 @@ Petit programme d'optimisation de son jardin en fonction des affinités entre le
 2) Renseigner les légumes dans les dropbox apparues sur le cote de la grille et dessinez vos parcelles en cliquant sur "Partitionner"
 3) Cliquer sur "Lancer le calcul"
 
-=> Le programme vous dit sur quelle parcelle planter quel légumes!
+=> Le programme vous dit sur quelle parcelle planter quelle plante!
 
 Vous pouvez également:
 - Forcer une parcelle à recevoir une plante en cliquant sur "Partitionner avec Contrainte"
